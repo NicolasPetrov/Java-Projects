@@ -1,7 +1,18 @@
 # Java-Projects
 Welcome! This folder contains all my Java projects. Below are brief descriptions and links to the corresponding project folders.
 
+### List of projects
+
+1. [JavaTextEditor](#JavaTextEditor)
+2. [PharmacyAccountingApp](#PharmacyAccountingApp)
+3. [Tic-Tac-Toe](#TicTacToe)
+4. [Snake](#Snake)
+5. [ATM App](#ATMApp)
+6. [Currency Converter](#CurrencyConverter)
+7. [Conway’s Game of Life](#ConwaysGameofLife)
+
 ## 1) JavaTextEditor
+<div id="JavaTextEditor"></div>
 <img width="871" height="637" alt="395850886-42b95c76-f5db-4148-ba99-82f62f1c1e19" src="https://github.com/user-attachments/assets/0d784248-0649-46e7-98f3-fbb45ebbe106" />
 
 A desktop **rich-text editor** built with Swing. Create, edit, and format documents; open/save/export; insert images; and apply fonts, sizes, bold/italic styles via a menu-driven UI. Demonstrates `JTextPane` + `StyledDocument`, file I/O, and practical text manipulation.
@@ -22,6 +33,7 @@ A desktop **rich-text editor** built with Swing. Create, edit, and format docume
 ---
 
 ## 2) PharmacyAccountingApp
+<div id="PharmacyAccountingApp"></div>
 <img width="877" height="656" alt="395849680-c5dcb118-ce2c-4211-860a-553c316e98f4" src="https://github.com/user-attachments/assets/36ac9d75-fb83-4d27-bf5d-549a9816209a" />
 
 A Swing application for **pharmacy record management** with login, tabs for Medications and Vendors, editable tables, and a splash screen on start. Great as a foundation for CRUD-style desktop apps.
@@ -42,7 +54,8 @@ A Swing application for **pharmacy record management** with login, tabs for Medi
 
 ---
 
-## 3) Tic-Tac-Toe (Java)
+## 3) Tic-Tac-Toe
+<div id="TicTacToe"></div>
 <img width="469" height="460" alt="395848656-b4e8d345-84ea-46c5-848e-a96d087f03d1" src="https://github.com/user-attachments/assets/5b76af9d-139d-42b1-b215-d81fc4ef402d" />
 
 A functional **Tic-Tac-Toe** game with a graphical interface, win detection, and restart capability. Built to practice core Java and simple game logic (UI implemented with **JavaFX**).
@@ -60,8 +73,9 @@ A functional **Tic-Tac-Toe** game with a graphical interface, win detection, and
 
 ---
 
-## 4) Snake (Java)
-![395855060-a7e8e6da-29f2-4f3d-8c41-7feb2fcccb96](https://github.com/user-attachments/assets/79cd5d71-e06d-4c89-b97a-79bb1c621252)
+## 4) Snake
+<div id="Snake"></div>
+<img width="877" height="656" alt="480068896-79cd5d71-e06d-4c89-b97a-79bb1c621252" src="https://github.com/user-attachments/assets/6b0a61bd-f8e5-4096-a824-7ffe51018ca1" />
 
 The classic **Snake** with difficulty levels, adaptive speed, scoring, special-food bonuses, and sound/music.
 
@@ -80,7 +94,8 @@ The classic **Snake** with difficulty levels, adaptive speed, scoring, special-f
 
 ---
 
-## 5) ATM App (Java)
+## 5) ATM App
+<div id="ATMApp"></div>
 <img width="473" height="475" alt="395855418-ff1d44ea-750f-4bb1-bb07-cc67b33ef17d" src="https://github.com/user-attachments/assets/adf30f96-b30e-42f7-b0dc-ef2f69fdd9c8" />
 
 An **ATM interface** with login, balance check, transaction view, deposit, and withdrawal. GUI built with Swing; good practice for event-driven UI and basic business logic.
@@ -98,7 +113,8 @@ An **ATM interface** with login, balance check, transaction view, deposit, and w
 
 ---
 
-## 6) Currency Converter (Java)
+## 6) Currency Converter
+<div id="CurrencyConverter"></div>
 <img width="623" height="281" alt="395875127-946be650-cf73-4e2b-bf86-77006b1cc491" src="https://github.com/user-attachments/assets/42ceae8e-15dd-49bc-ab16-afa9f272696b" />
 
 A simple **currency converter** using **CurrencyLayer** for live exchange rates. Supports USD, EUR, CHF, GBP, JPY, CNY, RUB.
@@ -114,7 +130,8 @@ A simple **currency converter** using **CurrencyLayer** for live exchange rates.
 
 ---
 
-## 7) Conway’s Game of Life (Java)
+## 7) Conway’s Game of Life
+<div id="ConwaysGameofLife"></div>
 <img width="518" height="492" alt="395851452-7861b84e-555c-4a6d-a880-445937a70ba6" src="https://github.com/user-attachments/assets/4cf73b9b-9392-4e51-8ee9-2e9f6d876bde" />
 
 An implementation of **Conway’s Game of Life** with a graphical grid and button controls. Users place or randomize the initial state; the simulation evolves by rules with cycle/stability detection.
